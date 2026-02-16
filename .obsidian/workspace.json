@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "3d58e9894883b008",
+    "id": "b573539e839d1687",
     "type": "split",
     "children": [
       {
-        "id": "08fd19b80e4957bc",
+        "id": "8408a35ac78b185a",
         "type": "tabs",
         "children": [
           {
-            "id": "529b0dd367010b8a",
+            "id": "649a936c5307697e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. Команды/Команда cp.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Команда cp"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7be9a15c14a962a4",
+    "id": "58b13fcf5e2587cc",
     "type": "split",
     "children": [
       {
-        "id": "2e3087617732b2a1",
+        "id": "de842c4d3e5b228c",
         "type": "tabs",
         "children": [
           {
-            "id": "1151c3aa62cb071f",
+            "id": "692bc4850845bcc6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "256defde927543ec",
+            "id": "caf779b9b3b1264a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "f83f8f2936bc6782",
+            "id": "394fe36ec67e33da",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "aa891caa3b5179ba",
+    "id": "9f31e96be17fe097",
     "type": "split",
     "children": [
       {
-        "id": "eab057deef6ca51a",
+        "id": "38df76a5c928b26a",
         "type": "tabs",
         "children": [
           {
-            "id": "f83f39d4d9634415",
+            "id": "e0e64af826dad6ef",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05. Окружение и настройка/Окружение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Окружение"
+              "title": "Обратные ссылки"
             }
           },
           {
-            "id": "8b8646a1095cee4b",
+            "id": "12457d97b30b8d2b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05. Окружение и настройка/Окружение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Окружение"
+              "title": "Исходящие ссылки"
             }
           },
           {
-            "id": "d9231fd05ed646a2",
+            "id": "18d3115d441c403e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +131,35 @@
             }
           },
           {
-            "id": "0f5cd593d6de0ce9",
+            "id": "889f294e8c342c99",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "e66a310eb10ba3b5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "05. Окружение и настройка/Окружение.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Окружение"
+              "title": "Структура"
             }
           },
           {
-            "id": "85a5d35c1c1c6aa1",
+            "id": "073c7cafff08f744",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -162,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -181,43 +188,6 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "529b0dd367010b8a",
-  "lastOpenFiles": [
-    "00. Команды/Команда chown.md",
-    "00. Команды/Команда chmod.md",
-    "00. Команды/Команда cat.md",
-    "00. Команды/Команда bzip2, bunzip2.md",
-    "00. Команды/Команда apropos.md",
-    "00. Команды/Команда alias.md",
-    "00. Команды/Команда type.md",
-    "00. Команды/Команда find.md",
-    "03. Привилегии/Атрибуты (права) доступа к файлу.md",
-    "00. Команды/Команда locate.md",
-    "00. Команды/Команда fdisk.md",
-    "00. Команды/Команда umount.md",
-    "00. Команды/Команда df.md",
-    "06. Устройства хранения и файлы/Монтирование.md",
-    "00. Команды/Команда dd.md",
-    "00. Команды/Команда cp.md",
-    "00. Команды/Команда sudo.md",
-    "03. Привилегии/Изменение идентичности.md",
-    "03. Привилегии/Chmod с использованием символического представления.md",
-    "03. Привилегии/Chmod с использованием восьмеричных чисел.md",
-    "01. Основы командной оболочки/Групповые символы (wildcards).md",
-    "02. Перенаправление/Перенаправление стандартного вывода.md",
-    "02. Перенаправление/Ввод, вывод, вывод ошибок.md",
-    "00. Команды/Команда gzip, gunzip.md",
-    "01. Основы командной оболочки/Командная оболочка.md",
-    "00. Команды/Команды для работы с пакетами.md",
-    "08. SSH",
-    "07. Архивация и резервное копирование",
-    "07. Сети",
-    "06. Устройства хранения и файлы",
-    "05. Окружение и пакеты",
-    "04. Процессы",
-    "03. Привилегии",
-    "Команда \"head ",
-    "02. Перенаправление",
-    "00. Команды"
-  ]
+  "active": "073c7cafff08f744",
+  "lastOpenFiles": []
 }
