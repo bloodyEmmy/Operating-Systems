@@ -15,4 +15,4 @@ zip <параметры> <сжатый_файл> <файл> ...
 zip -r playground.zip playground
 unzip ../playground.zip
 ```
-<!--SR:!2025-11-18,3,250-->
+<!--SR:!2026-03-14,8,250-->
