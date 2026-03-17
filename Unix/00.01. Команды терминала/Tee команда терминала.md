@@ -18,4 +18,4 @@
 echo "Пример" | tee file1.txt file2.txt
 ls /usr/bin | tee ls.txt | grep zip
 ```
-<!--SR:!2026-03-09,3,210-->
+<!--SR:!2026-03-16,6,210-->

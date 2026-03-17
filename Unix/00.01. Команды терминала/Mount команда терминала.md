@@ -12,4 +12,4 @@
 mkdir .mnt/cdrom
 mount -t iso9660 /dev/sdc /mnt/cdrom
 ```
-<!--SR:!2026-03-13,7,250-->
+<!--SR:!2026-03-17,4,230-->

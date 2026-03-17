@@ -14,4 +14,4 @@ find ~ -type f -name '* .bak' -delete
 find ~ -type f -and -name '* .bak' -and -print
 ```
 Работаем в домашней директории.
-<!--SR:!2026-03-07,1,210-->
+<!--SR:!2026-03-17,4,210-->
